@@ -2,12 +2,11 @@
 
 
 
-## I'm a Student with keen intrest in Data Science and Big Data !!
+## I'm a Student with keen interest in Data Science and Big Data !!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning Javascript, 
-- 👯 I’m looking to collaborate with other Devloper, 
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🌱 I’m currently learning Javascript, Tableau
+- 👯 I’m looking to collaborate with other Devloper.
+- 🥅 2021 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love to Code and play Table tennis 
 
 ### Connect with me:
