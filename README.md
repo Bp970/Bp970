@@ -23,4 +23,7 @@
 
 [linkedin]: https://www.linkedin.com/in/bhavesh-patil-2000/
 
+<br />
+
+
 Skills: PYTHON / HTML / CSS
