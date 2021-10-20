@@ -22,3 +22,5 @@
 [instagram]: https://www.instagram.com/i_am__paranoid_/
 
 [linkedin]: https://www.linkedin.com/in/bhavesh-patil-2000/
+
+Skills: PYTHON / HTML / CSS
