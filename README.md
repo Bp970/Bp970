@@ -1,3 +1,8 @@
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
+  
+
 ### Hi there, I'm Bhavesh 👋
 
 
@@ -9,18 +14,42 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love to Code and play Table tennis 
 
-### Connect with me:
+### Languages and Tools:-  
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
+</div>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Bp970)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/bhavesh-patil-2000//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/i_am__paranoid_//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/789bhaveshpatil)  
-
-<br />
+</td><td valign="top" width="33%">
 
 
-[instagram]: https://www.instagram.com/i_am__paranoid_/
 
-[linkedin]: https://www.linkedin.com/in/bhavesh-patil-2000/
+</td><td valign="top" width="33%">
 
-<br />
+
+
+</td></tr></table>  
+
+<br/> 
+
+
+## Connect with me  
+<div align="center">
+<a href="https://github.com/Bp970" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/https://www.instagram.com/i_am__paranoid_/" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/bhavesh-patil-2000/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
+
+<br/> 
 
 
 
@@ -29,14 +58,3 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/Bp970/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bp970)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bp970&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Bp970)  
-
-![GitHub metrics](https://metrics.lecoq.io/Bp970)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Bp970)  
-
-![Profile views](https://gpvc.arturio.dev/Bp970)  
