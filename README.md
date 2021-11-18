@@ -55,6 +55,6 @@
 
 <br />
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/Bp970/github-readme-stats)
+[![Bhavesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=bp970)](https://github.com/Bp970/github-readme-stats)
 
 
