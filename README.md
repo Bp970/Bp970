@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **while seeking collaborations on CI/CD, Kubernetes/GKE + DB setup projects.**
 
-- 📝 I regularly write articles on [paranerdzops.hashnode.dev](paranerdzops.hashnode.dev)
+- 📝 I regularly write articles on [paranerdzops.hashnode.dev](https://paranerdzops.hashnode.dev/)
 
 - 💬 Ask me about **Ready to chat about Kubernetes, Ansible, GCP, and Mongo/PostgreSQL cluster setup**
 
