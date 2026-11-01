@@ -4,15 +4,15 @@
 I run production Kubernetes for a multi-tenant fintech platform: five environments,
 cross-region DR, first-line on-call. Before that, GKE for JioCinema through IPL 2024.
 
-### Things that broke, and what I learned
-- [An Elasticsearch cluster went red and the autoscaler never noticed](link): ECK, soft anti-affinity, disk watermarks
-- [An API server allowlist that locked out its own nodes](link): AKS authorized IP ranges vs NAT Gateway egress
-- [Kafka "GC pauses" that were really CPU throttling](link): Strimzi, leadership skew
+**Now:** preparing for the CKA
 
-### Things you can run
-- [terraform-azurerm-aks-platform](link): private AKS, App Gateway + WAF, NAT Gateway, tested in CI
-- [k8s-failure-labs](link): the incidents above, reproduced on kind
-- [aks-cni-ip-planner](link): how many IPs your Azure CNI subnet actually needs
+### Highlights
+- Migrated 21+ microservices from Azure App Services to AKS with zero downtime, cutting infra cost 50%+
+- Built cross-region DR (Central India → South India) with Traffic Manager failover
+- Cut critical vulnerabilities 90% with blocking DevSecOps gates (SonarQube, Fortify, Black Duck, Trivy)
+- Root-caused a cluster-wide AKS outage: API server authorized IP ranges were missing the NAT Gateway egress IP
+- Recovered a red Elasticsearch cluster (250 unassigned shards): disks past the high watermark, 3 ES pods packed onto 2 VMs
+- Traced Kafka "GC pause" alerts to CPU throttling from leadership skew, not heap
 
 ### What I run in production
 Kubernetes · Terraform · Kong · Istio · Strimzi Kafka · ECK · Prometheus · Alertmanager · Azure DevOps
